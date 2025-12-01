@@ -50,7 +50,7 @@ plt.show()
 # Variáveis dummy para as variáveis categóricas
 vars_categoricas = ['alcohol', 'antihist', 'smoker']
 preditoras = pd.get_dummies(df[vars_categoricas + ['nsneeze']], drop_first=True).astype(float)
-preditoras
+print(preditoras)
 
 
 # Correlação de nsneeze com todas as outras variáveis
