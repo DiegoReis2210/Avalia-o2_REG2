@@ -1,4 +1,4 @@
-# Avalia-o2_REG2
+# Avaliação2_REG2
 ## SME0823 - Modelos de Regressão e Aprendizado Supervisionado II
 Diego Deliberalli Reis - 15574238
 
