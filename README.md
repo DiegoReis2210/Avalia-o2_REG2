@@ -11,7 +11,7 @@ Um estudo clínico busca investigar fatores associados ao número de espirros di
 - age: idade do paciente (anos).
 - pollen: índice quantitativo de concentração de pólen no ar no dia da observação.
 
-- 1. Desenvolva uma breve análise exploratória dos dados e avalie as primeiras impressões sobre a associação entre a variável nsneeze e as demais.
+1. Desenvolva uma breve análise exploratória dos dados e avalie as primeiras impressões sobre a associação entre a variável nsneeze e as demais.
 
 2. Ajuste um modelo de Poisson para explicar nsneeze em função das covariáveis alcohol, antihist, smoker, age e pollen. Não é necessário incluir interações.
 
