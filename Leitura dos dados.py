@@ -1,6 +1,6 @@
 df = pd.read_csv('/content/sneeze5.csv')
 df = df.iloc[:, 1:]
 
-df
+print(df)
 
-df.columns
+print(df.columns)
